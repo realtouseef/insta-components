@@ -1,2 +1,2 @@
-export { Modal } from './modal';
+export { Dialog } from './dialog';
 export { Button } from './button';
