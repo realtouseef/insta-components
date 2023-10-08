@@ -115,6 +115,6 @@ const DialogButtons = ({ fields }: { fields: Fields[] }) => {
 };
 
 Dialog.Header = DialogHeader;
-Dialog.Footer = DialogFooter;
 Dialog.Body = DialogBody;
 Dialog.Buttons = DialogButtons;
+Dialog.Footer = DialogFooter;
